@@ -6,7 +6,7 @@
 // This tile gives the portfolio a human identity.
 // It uses your photo, role, location and short positioning statement.
 
-import profilePhoto from "../assets/ddjunaidi4k.webpnpm run dev";
+import profilePhoto from "../assets/ddjunaidi4k.webp";
 import { MapPin, CircleCheck } from "lucide-react";
 import { SITE_CONFIG } from "../config";
 
