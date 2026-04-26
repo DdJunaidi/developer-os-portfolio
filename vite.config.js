@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite' // <--- Add this
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/portfolio_v3/', 
+  base: '/developer-os-portfolio/', 
 })
 

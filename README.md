@@ -34,7 +34,7 @@ Designed to showcase:
 # 🌐 Live Demo
 
 ## Portfolio
-https://ddjunaidi.github.io/portfolio_v3/
+https://ddjunaidi.github.io/developer-os-portfolio/
 
 ---
 

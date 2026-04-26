@@ -1,5 +1,5 @@
 {
-  "name": "portfolio_v3",
+  "name": "developer-os-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -r https://github.com/DdJunaidi/portfolio_v3.git"
+    "deploy": "gh-pages -d dist -r https://github.com/DdJunaidi/developer-os-portfolio.git"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",
