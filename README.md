@@ -1,4 +1,5 @@
 # developer-os boot sequence
+![Deploy](https://github.com/DdJunaidi/portfolio_v3/actions/workflows/deploy.yml/badge.svg)
 
 ```bash
 booting portfolio...
