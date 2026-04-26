@@ -246,7 +246,7 @@ function App() {
           FOOTER
       ==================================================*/}
       <footer className="relative z-10 pb-10 text-center text-[10px] uppercase tracking-[0.3em] text-zinc-600">
-        Designed & Built by {SITE_CONFIG.name} • Portfolio V3 Auto Deploy Test • 2026
+        Designed & Built by {SITE_CONFIG.name} • Portfolio V3 • 2026
       </footer>
     </main>
   );
