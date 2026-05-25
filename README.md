@@ -1,5 +1,5 @@
 # developer-os boot sequence
-![Deploy](https://github.com/DdJunaidi/portfolio_v3/actions/workflows/deploy.yml/badge.svg)
+![Deploy](https://github.com/DdJunaidi/developer-os-portfolio/actions/workflows/deploy.yml/badge.svg)
 
 ```bash
 booting portfolio...
@@ -27,15 +27,15 @@ Designed to showcase:
 ![Built with React](https://img.shields.io/badge/Built%20With-React-61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-Fast-purple)
 ![Tailwind](https://img.shields.io/badge/Tailwind-v4-38BDF8)
-![Deploy](https://img.shields.io/badge/Deployed-GitHub%20Pages-success)
+![Deploy](https://img.shields.io/badge/Deployed-Hostinger-success)
 ![Status](https://img.shields.io/badge/Status-Actively%20Maintained-brightgreen)
 
 ---
 
 # 🌐 Live Demo
 
-## Portfolio
-https://ddjunaidi.github.io/developer-os-portfolio/
+**Portfolio**  
+https://tulynq.com — Part of the TuLynq engineering identity.
 
 ---
 
@@ -195,9 +195,15 @@ npm run build
 
 ## Deploy
 
+Push to `main` branch — GitHub Actions builds and deploys automatically to Hostinger.
+
 ```bash
-npm run deploy
+git add .
+git commit -m "your update"
+git push
 ```
+
+No manual deployment required.
 
 ---
 
@@ -231,7 +237,7 @@ Modify:
 
 ```javascript
 const commands = [
- { cmd: "whoami", res: "..." }
+  { cmd: "whoami", res: "..." }
 ]
 ```
 
@@ -280,6 +286,7 @@ Bento portfolios help visitors scan:
 - [ ] Dark / light mode
 - [ ] Interactive architecture diagrams
 - [ ] Blog / engineering notes
+- [ ] Respona SaaS launch at app.tulynq.com
 
 ---
 
@@ -292,7 +299,7 @@ LinkedIn
 https://www.linkedin.com/in/junaidi-samsudin-24034462/
 
 Portfolio  
-https://ddjunaidi.github.io/portfolio_v3/
+https://tulynq.com
 
 ---
 
@@ -313,4 +320,5 @@ system shutdown...
 thanks for visiting.
 ```
 
-Built with coffee ☕ curiosity and too many terminal commands.
+Built with coffee ☕ curiosity and too many terminal commands.  
+© TuLynq — junaidi@tulynq.com
