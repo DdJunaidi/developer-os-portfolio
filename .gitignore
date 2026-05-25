@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+#TuLynq Deploy Keys
+tulynq_deploy_key
+tulynq_deploy_key.pub
+tulynq_deploy_key_new
+tulynq_deploy_key_new.pub
