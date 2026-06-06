@@ -29,7 +29,7 @@ export const SITE_CONFIG = {
 
   email: "ddjunaidi@outlook.com",
 
-  resumeUrl: "/developer-os-portfolio/Junaidi_CV.pdf",
+  resumeUrl: "/Junaidi_CV.pdf",
 
   links: {
     github: "https://github.com/DdJunaidi",
@@ -115,22 +115,22 @@ export const SITE_CONFIG = {
     {
       name: "CSM®",
       org: "Scrum Alliance",
-      badge: "/developer-os-portfolio/badges/sa-csm-600.png",
+      badge: "/badges/sa-csm-600.png",
     },
     {
       name: "CSPO®",
       org: "Scrum Alliance",
-      badge: "/developer-os-portfolio/badges/sa-cspo-600.png",
+      badge: "/badges/sa-cspo-600.png",
     },
     {
       name: "Prompt Engineering",
       org: "PMI",
-      badge: "/developer-os-portfolio/badges/pmi-ai.png",
+      badge: "/badges/pmi-ai.png",
     },
     {
       name: "GenAI for PM",
       org: "PMI",
-      badge: "/developer-os-portfolio/badges/GenAI-PM.png",
+      badge: "/badges/GenAI-PM.png",
     },
   ],
 };
