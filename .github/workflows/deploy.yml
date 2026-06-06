@@ -45,4 +45,4 @@ jobs:
           scp -i ~/.ssh/deploy_key \
               -P ${{ secrets.SSH_PORT }} \
               -r ./dist/* \
-              ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }}:/home/u581661848/domains/tulynq.com/public_html/
+              ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }}:/home/u581661848/domains/tulynq.com/public_html/portfolio/
